@@ -1,0 +1,152 @@
+[38;5;200m[38;5;40m--code process
+[38;5;200m[38;5;40mNeed key-reload 1
+[38;5;200m[38;5;40mKEY_Regenerator called
+[38;5;200m
+Started by :: 
+Base :: 3; Pow :: 103; mod :: 17
+    pow :: 0; base_eax :: 9; eax :: 3; used :: 1
+    pow :: 1; base_eax :: 13; eax :: 10; used :: 1
+    pow :: 2; base_eax :: 16; eax :: 11; used :: 1
+    pow :: 3; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 4; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 5; base_eax :: 1; eax :: 11; used :: 1
+    pow :: 6; base_eax :: 1; eax :: 11; used :: 1
+    pow :: 7; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 8; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 9; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 10; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 11; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 12; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 13; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 14; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 15; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 16; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 17; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 18; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 19; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 20; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 21; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 22; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 23; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 24; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 25; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 26; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 27; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 28; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 29; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 30; base_eax :: 1; eax :: 11; used :: 0
+    pow :: 31; base_eax :: 1; eax :: 11; used :: 0
+Base :: 3; Pow :: 103; Res :: 11
+
+Started by :: 
+Base :: 3; Pow :: 198; mod :: 17
+    pow :: 0; base_eax :: 9; eax :: 1; used :: 0
+    pow :: 1; base_eax :: 13; eax :: 9; used :: 1
+    pow :: 2; base_eax :: 16; eax :: 15; used :: 1
+    pow :: 3; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 4; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 5; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 6; base_eax :: 1; eax :: 15; used :: 1
+    pow :: 7; base_eax :: 1; eax :: 15; used :: 1
+    pow :: 8; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 9; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 10; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 11; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 12; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 13; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 14; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 15; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 16; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 17; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 18; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 19; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 20; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 21; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 22; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 23; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 24; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 25; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 26; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 27; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 28; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 29; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 30; base_eax :: 1; eax :: 15; used :: 0
+    pow :: 31; base_eax :: 1; eax :: 15; used :: 0
+Base :: 3; Pow :: 198; Res :: 15
+[38;5;40mkeys re-/generated!
+[38;5;200m
+Started by :: 
+Base :: 15; Pow :: 103; mod :: 17
+    pow :: 0; base_eax :: 4; eax :: 15; used :: 1
+    pow :: 1; base_eax :: 16; eax :: 9; used :: 1
+    pow :: 2; base_eax :: 1; eax :: 8; used :: 1
+    pow :: 3; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 4; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 5; base_eax :: 1; eax :: 8; used :: 1
+    pow :: 6; base_eax :: 1; eax :: 8; used :: 1
+    pow :: 7; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 8; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 9; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 10; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 11; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 12; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 13; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 14; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 15; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 16; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 17; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 18; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 19; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 20; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 21; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 22; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 23; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 24; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 25; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 26; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 27; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 28; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 29; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 30; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 31; base_eax :: 1; eax :: 8; used :: 0
+Base :: 15; Pow :: 103; Res :: 8
+
+Started by :: 
+Base :: 11; Pow :: 198; mod :: 17
+    pow :: 0; base_eax :: 2; eax :: 1; used :: 0
+    pow :: 1; base_eax :: 4; eax :: 2; used :: 1
+    pow :: 2; base_eax :: 16; eax :: 8; used :: 1
+    pow :: 3; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 4; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 5; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 6; base_eax :: 1; eax :: 8; used :: 1
+    pow :: 7; base_eax :: 1; eax :: 8; used :: 1
+    pow :: 8; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 9; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 10; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 11; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 12; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 13; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 14; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 15; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 16; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 17; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 18; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 19; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 20; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 21; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 22; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 23; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 24; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 25; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 26; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 27; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 28; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 29; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 30; base_eax :: 1; eax :: 8; used :: 0
+    pow :: 31; base_eax :: 1; eax :: 8; used :: 0
+Base :: 11; Pow :: 198; Res :: 8
+SKey[0] == 08;    SKey[1] == 08
+
+Resulted MULTIPLY counted is 146
+[38;5;255m
